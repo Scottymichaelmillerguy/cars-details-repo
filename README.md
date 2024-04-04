@@ -3,11 +3,11 @@ You are to create a data analysis report on the following dataset and submit as 
 
 Make sure to describe each of the 5 aspects. (Focus on 5 aspects (at least) for Numerical Data)
 
-Center
-Spread
-Skew
-Clusters/Modality
-Extreme Values
+Center,
+Spread,
+Skew,
+Clusters/Modality,
+Extreme Values,
 Following details of cars are included in the dataset:
 1) Car name
 2) Year
